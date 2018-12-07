@@ -1,0 +1,38 @@
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\OSR Inventory.exe.config
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\OSR Inventory.exe
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\OSR Inventory.pdb
+C:\Users\davidjdavid\source\repos\OSR Inventory\obj\Debug\OSR Inventory.csprojAssemblyReference.cache
+C:\Users\davidjdavid\source\repos\OSR Inventory\obj\Debug\OSR_Inventory.Properties.Resources.resources
+C:\Users\davidjdavid\source\repos\OSR Inventory\obj\Debug\OSR Inventory.csproj.GenerateResource.cache
+C:\Users\davidjdavid\source\repos\OSR Inventory\obj\Debug\OSR Inventory.csproj.CoreCompileInputs.cache
+C:\Users\davidjdavid\source\repos\OSR Inventory\obj\Debug\OSR Inventory.exe
+C:\Users\davidjdavid\source\repos\OSR Inventory\obj\Debug\OSR Inventory.pdb
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\EPPlus.dll
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\EPPlus.xml
+C:\Users\davidjdavid\source\repos\OSR Inventory\obj\Debug\OSR Inventory.csproj.CopyComplete
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\EntityFramework.dll
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\EntityFramework.xml
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\ExcelDataReader.dll
+C:\Users\davidjdavid\source\repos\OSR Inventory\bin\Debug\ExcelDataReader.xml
+C:\Users\davidjdavid\source\repos\OSR Inventory\obj\Debug\OSR_Inventory.formOSR.resources
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\OSR Inventory.exe.config
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\OSR Inventory.exe
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\OSR Inventory.pdb
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\EntityFramework.dll
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\EPPlus.dll
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\ExcelDataReader.dll
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\EntityFramework.xml
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\EPPlus.xml
+C:\Users\davidjdavid\Desktop\OSR Inventory\bin\Debug\ExcelDataReader.xml
+C:\Users\davidjdavid\Desktop\OSR Inventory\obj\Debug\OSR Inventory.csprojAssemblyReference.cache
+C:\Users\davidjdavid\Desktop\OSR Inventory\obj\Debug\OSR_Inventory.formInv.resources
+C:\Users\davidjdavid\Desktop\OSR Inventory\obj\Debug\OSR_Inventory.Properties.Resources.resources
+C:\Users\davidjdavid\Desktop\OSR Inventory\obj\Debug\OSR Inventory.csproj.GenerateResource.cache
+C:\Users\davidjdavid\Desktop\OSR Inventory\obj\Debug\OSR Inventory.csproj.CoreCompileInputs.cache
+C:\Users\davidjdavid\Desktop\OSR Inventory\obj\Debug\OSR Inventory.csproj.CopyComplete
+C:\Users\davidjdavid\Desktop\OSR Inventory\obj\Debug\OSR Inventory.exe
+C:\Users\davidjdavid\Desktop\OSR Inventory\obj\Debug\OSR Inventory.pdb
