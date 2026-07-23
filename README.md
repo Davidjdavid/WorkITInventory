@@ -1,7 +1,7 @@
 [WorkITInventory-README.md](https://github.com/user-attachments/files/30318315/WorkITInventory-README.md)
 # WorkITInventory
 
-A desktop inventory management application built in C# (WinForms) for tracking IT equipment stored in "OSR" — the equipment storage room for a student IT job at Kansas State University Residential Networking.
+A desktop inventory management application built in C# (WinForms) for tracking IT equipment stored in "OSR", the equipment storage room for a student IT job at Kansas State University Residential Networking.
 
 ## What it does
 
