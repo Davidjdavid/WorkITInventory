@@ -30,7 +30,7 @@ A desktop inventory management application built in C# (WinForms) for tracking I
 ## Setup
 
 1. Clone the repo and open `OSR Inventory.sln` in Visual Studio.
-2. Restore NuGet packages (Entity Framework, etc. — see `packages.config`).
+2. Restore NuGet packages (Entity Framework, etc., see `packages.config`).
 3. Update the connection string in `App.config` to point to your database.
 4. Build and run.
 
