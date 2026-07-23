@@ -36,5 +36,5 @@ A desktop inventory management application built in C# (WinForms) for tracking I
 
 ## Notes
 
-- "OSR" refers to the physical room where the IT equipment is stored — the app's checkout/check-in workflow is built around that inventory.
+- "OSR" refers to the physical room where the IT equipment is stored, the app's checkout/check-in workflow is built around that inventory.
 - Built as an internal tool for a specific job; database schema and connection details aren't included and will need to be set up separately.
